@@ -22,8 +22,8 @@ The evaluation metric for this competition is accuracy, a very straightforward m
 Accuracy measures false positives and false negeatives equally, and really should only be used in simple cases and when classes are of generally equal class size
 
 Below are the results:
-Accuracy:   0.9137805322639446
-AUC Score:  0.922551931914714
+Accuracy:   0.9292745169522421
+AUC Score:  0.9267756045312805
 
 ### Data Description
 train.csv: A full training dataset with the following attributes:
